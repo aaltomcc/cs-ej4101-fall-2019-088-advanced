@@ -12,5 +12,5 @@ draft: false
 
 ![a nice pic](https://cdn.pixabay.com/photo/2019/11/30/16/34/comic-4663596_1280.png "artsy")
 
-[Link to blog post about this course](/posts/post-on-course.md)
-[Link to blog post about learning](/posts/post-on-learning.md)
+*[Link to blog post about this course](/posts/post-on-course.md)  
+*[Link to blog post about learning](/posts/post-on-learning.md)
