@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Index on Devops #088</title>
+    <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-088-advanced/</link>
+    <description>Recent content in Index on Devops #088</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2019 14:41:06 +0900</lastBuildDate>
+    
+	<atom:link href="https://aaltomcc.github.io/cs-ej4101-fall-2019-088-advanced/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post on Learning</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-088-advanced/posts/post-on-learning/</link>
+      <pubDate>Sun, 08 Dec 2019 14:14:02 +0900</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-088-advanced/posts/post-on-learning/</guid>
+      <description>#learned 088
+ As I had not taken any devops related courses before, most of the stuff we learned during the course was new to me at least in theory. It was however nice to see that the theoretical aspects could quite easily be applied to my previous finding from my work, and getting the theoretical background also helps to better understand why certain things where done the way they were done in my previous employer’s operations.</description>
+    </item>
+    
+    <item>
+      <title>Post on Course</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-088-advanced/posts/post-on-course/</link>
+      <pubDate>Sun, 08 Dec 2019 13:41:06 +0900</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-088-advanced/posts/post-on-course/</guid>
+      <description>#this course 088
+ This course peaked my interest while looking through the Fitech course list, as I have heard a lot of talk about devops and it’s necessity to modern businesses both in my studies and in my work. As I also want to have a comprehensive understanding of how companies run their IT departments (especially large ones with a lot of data to handle) and how the IT department can support the whole business side to streamline their processes and help them to make more profit, this topic is an important part of a puzzle for me.</description>
+    </item>
+    
+  </channel>
+</rss>
