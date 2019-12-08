@@ -1,3 +1,9 @@
+---
+title: "Index"
+date: 2019-12-08T14:41:06+09:00
+draft: false
+---
+
 # About
 
 >I am a nth year student majoring in computer science. I'm mostly interested in connecting the expectations and needs of both IT and business together, and through my studies I aim to get a comprehensive view on both sides, so that I'll be able to do this in the future in my work.

@@ -1,7 +1,7 @@
 ---
 title: "Post on Course"
 date: 2019-12-08T13:41:06+09:00
-draft: true
+draft: false
 ---
 
 #this course 088

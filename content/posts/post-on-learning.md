@@ -1,7 +1,7 @@
 ---
 title: "Post on Learning"
 date: 2019-12-08T14:14:02+09:00
-draft: true
+draft: false
 ---
 
 #learned 088
