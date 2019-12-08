@@ -1,6 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://aaltomcc.github.io/cs-ej4101-fall-2019-088-advanced/"
 languageCode = "en-us"
 title = "Hello Devops World"
+theme = "beautifulhugo"
 
 [params]
   homeText = "Wow."
