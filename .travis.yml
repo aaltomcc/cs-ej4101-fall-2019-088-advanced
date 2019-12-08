@@ -7,6 +7,6 @@ deploy:
   - provider: pages
     skip_cleanup: true
     github_token: $github_token
-    local_dir: cs-ej4101-fall-2019-088-advanced/public
+    local_dir: public
     on:
       branch: master
